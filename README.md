@@ -8,7 +8,7 @@ I specialize in building strong teams across **software, data, cloud, and emergi
 ## 💼 What I Do
 - 🎯 Partner with **founders, CTOs, and engineering leads** to design and execute hiring strategies.  
 - 🔍 Manage **end-to-end recruitment** — from sourcing to onboarding — across all tech roles.  
-- 💬 Engage with developers through GitHub, LinkedIn, and communities to identify top talent.  
+- 💬 Engage with Tech community through GitHub, LinkedIn, and communities to identify top talent.  
 - 🧩 Support companies with **contract, permanent, and project-based hiring** needs.  
 
 ---
@@ -26,7 +26,7 @@ I specialize in building strong teams across **software, data, cloud, and emergi
 I use this space to:  
 - 📢 Share **tech job openings** and **career updates**  
 - 🧠 Curate **resources and interview prep material** for IT professionals  
-- 🤝 Connect with **developers, open-source contributors, and hiring partners**  
+- 🤝 Connect with **the tech-talent and hiring partners**  
 
 ---
 
