@@ -70,4 +70,4 @@ I use this space to:
 > ⭐ If you’re passionate about building next-generation AI products and advancing NLP innovation — let’s connect!
 
 🌐 **Looking for new opportunities or want to refer talent?**  
-Check out my [Open Tech Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool)
+Check out my [Open Tech Talent Pool](https://priya-techrecruiter.github.io/open-talent-pool/)
