@@ -44,11 +44,10 @@ I use this space to:
 
 ## 💼 Current Opening (October 2025)
 
-### 🚀 **Lead AI Engineer – Pune / Ahmedabad (Hybrid)**  
+### 🚀 **Lead AI Engineer – Pune / Ahmedabad**  
 
 ![Experience](https://img.shields.io/badge/Experience-5--12%20years-blue) 
 ![Location](https://img.shields.io/badge/Location-Pune%20%2F%20Ahmedabad-brightgreen) 
-![Mode](https://img.shields.io/badge/Work%20Mode-Hybrid-orange) 
 ![Role](https://img.shields.io/badge/Role-Lead%20AI%20Engineer-purple)
 
 **Tech Stack:**  
