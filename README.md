@@ -49,6 +49,6 @@ Explore open roles or share profiles through the links below.
 Explore my [Current Openings](https://priya-techrecruiter.github.io/current-openings/) — updated regularly.  
 
 🌐 **Open Tech Talent Pool:**  
-If you’re exploring opportunities or wish to refer someone, visit my [Open Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool) — a dedicated space for the tech community to share profiles confidentially.
+If you’re exploring opportunities or wish to refer someone, visit my [Open Talent Pool](https://priya-techrecruiter.github.io/open-talent-pool/) — a dedicated space for the tech community to share profiles confidentially.
 
 ---
