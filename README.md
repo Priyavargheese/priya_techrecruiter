@@ -46,7 +46,7 @@ I use this space to:
 Explore open roles or share profiles through the links below.
 
 💼 **Current Tech Roles:**  
-Explore my [Current Openings](https://github.com/priya-techrecruiter/current-openings) — updated regularly.  
+Explore my [Current Openings](https://priya-techrecruiter.github.io/current-openings/) — updated regularly.  
 
 🌐 **Open Tech Talent Pool:**  
 If you’re exploring opportunities or wish to refer someone, visit my [Open Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool) — a dedicated space for the tech community to share profiles confidentially.
