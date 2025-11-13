@@ -51,3 +51,4 @@ Explore my [Current Openings](https://github.com/priya-techrecruiter/current-ope
 🌐 **Open Tech Talent Pool:**  
 If you’re exploring opportunities or wish to refer someone, visit my [Open Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool) — a dedicated space for the tech community to share profiles confidentially.
 
+---
