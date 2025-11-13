@@ -42,32 +42,6 @@ I use this space to:
 
 > ---
 
-## 💼 Current Opening (October 2025)
+💼 **Current Tech Roles:**  
+Explore my [Current Openings](https://github.com/priya-techrecruiter/current-openings) — updated regularly.
 
-### 🚀 **Lead AI Engineer – Pune / Ahmedabad**  
-
-![Experience](https://img.shields.io/badge/Experience-5--12%20years-blue) 
-![Location](https://img.shields.io/badge/Location-Pune%20%2F%20Ahmedabad-brightgreen) 
-![Role](https://img.shields.io/badge/Role-Lead%20AI%20Engineer-purple)
-
-**Tech Stack:**  
-🧠 Python / R / Java • TensorFlow • PyTorch • Keras • Generative AI • NLP • Deep Learning  
-
-**Key Responsibilities:**  
-- Build and optimize **Generative AI and NLP models** for production environments.  
-- Design and implement **deep learning pipelines** using modern frameworks.  
-- Collaborate with cross-functional teams on **AI-driven product features**.  
-- Research emerging trends in **LLMs and multimodal AI** to enhance capabilities.  
-
-**Preferred Background:**  
-- Strong programming background in **Python, R, or Java**  
-- Hands-on experience in **TensorFlow / PyTorch / Keras**  
-- Proven expertise in **Generative AI, NLP, or Deep Learning**  
-- Experience deploying AI models in real-world production systems  
-
-📩 **Apply via email:** [priyavargheese@yahoo.com](mailto:priyavargheese@yahoo.com)  
-
-> ⭐ If you’re passionate about building next-generation AI products and advancing NLP innovation — let’s connect!
-
-🌐 **Looking for new opportunities or want to refer talent?**  
-Check out my [Open Tech Talent Pool](https://priya-techrecruiter.github.io/open-talent-pool/)
