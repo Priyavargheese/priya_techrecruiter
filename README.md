@@ -40,8 +40,14 @@ I use this space to:
 ⭐ **Follow this profile** to stay updated on curated IT roles, tech hiring insights, and developer resources.  
 > “Great hiring isn’t just about filling positions — it’s about connecting purpose with potential.”
 
-> ---
+---
+
+🤝 **Connecting top tech talent with the right opportunities.**  
+Explore open roles or share profiles through the links below.
 
 💼 **Current Tech Roles:**  
-Explore my [Current Openings](https://github.com/priya-techrecruiter/current-openings) — updated regularly.
+Explore my [Current Openings](https://github.com/priya-techrecruiter/current-openings) — updated regularly.  
+
+🌐 **Open Tech Talent Pool:**  
+If you’re exploring opportunities or wish to refer someone, visit my [Open Talent Pool](https://github.com/priya-techrecruiter/open-talent-pool) — a dedicated space for the tech community to share profiles confidentially.
 
